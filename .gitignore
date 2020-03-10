@@ -1,0 +1,6 @@
+# for editors
+*/.vscode/
+
+# for C# builder files
+*/bin/
+*/obj/
