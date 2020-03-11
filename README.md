@@ -7,3 +7,4 @@
 5. Singleton
 6. Adapter
 7. Bridge
+8. Composite
