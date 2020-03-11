@@ -1,4 +1,4 @@
-****# Design Patterns
+\*\*\*\*# Design Patterns
 
 1. Abstract Factory
 2. Builder
@@ -6,3 +6,4 @@
 4. Prototype
 5. Singleton
 6. Adapter
+7. Bridge
